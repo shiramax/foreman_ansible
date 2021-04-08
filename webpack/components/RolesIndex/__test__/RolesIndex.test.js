@@ -30,6 +30,7 @@ const rowsData = [
 const fixtures = {
   'should render': {
     rowsData,
+    RolesIndexactions: () => {},
   },
 };
 
